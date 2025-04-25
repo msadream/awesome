@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@typed-sigterm/eslint-config": "^1.4.1",
+    "eslint": "^9.25.1"
+  },
+  "trustedDependencies": [
+    "unrs-resolver"
+  ]
+}
