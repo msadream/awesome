@@ -31,7 +31,7 @@ Moonshot48
 
 ## 2025-04-03 | 老有所 AI
 
-- [GenSync](https://gensync.7086cmd.me) - 一个使用 AI 算法匹配老年人和学习者的平台，旨在为老年人在传授知识的提供实现自我价值的机会 \
+- [GenSync](https://gensync.7086cmd.me) - 一个使用 AI 算法匹配老年人和学习者的平台，旨在为老年人在传授知识中提供实现自我价值的机会 \
     代码仓库：[ms48-gensync](https://github.com/ms48-gensync) \
     团队：第 8 组（[Aristra](https://github.com/AristraHatsuyu), [Jane Zhang](https://github.com/jo1-yo), [7086cmd](https://github.com/7086cmd), 久美坚参）
 
