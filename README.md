@@ -9,7 +9,7 @@ Moonshot48
 
 <p align="center">
 <a href="https://github.com/sindresorhus/awesome">
-<img src="https://raw.githubusercontent.com/sindresorhus/awesome/22310294d148ba1cc130d3d85623a04620947f54/media/badge.svg" alt="Awesome">
+<img src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome/media/badge.svg" alt="Awesome">
 </a>
 <a href="https://www.trackawesomelist.com/msadream/awesome">
 <img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List">
@@ -18,7 +18,7 @@ Moonshot48
 
 ## 目录
 
-使用右上角的 <kbd><img src="./assets/toc.svg"></kbd> 按钮可以打开 GitHub 自带的目录功能。
+使用右上角的 <kbd><img src="data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij48cGF0aCBkPSJNNS43NSAyLjVoOC41YS43NS43NSAwIDAgMSAwIDEuNWgtOC41YS43NS43NSAwIDAgMSAwLTEuNVptMCA1aDguNWEuNzUuNzUgMCAwIDEgMCAxLjVoLTguNWEuNzUuNzUgMCAwIDEgMC0xLjVabTAgNWg4LjVhLjc1Ljc1IDAgMCAxIDAgMS41aC04LjVhLjc1Ljc1IDAgMCAxIDAtMS41Wk0yIDE0YTEgMSAwIDEgMSAwLTIgMSAxIDAgMCAxIDAgMlptMS02YTEgMSAwIDEgMS0yIDAgMSAxIDAgMCAxIDIgMFpNMiA0YTEgMSAwIDEgMSAwLTIgMSAxIDAgMCAxIDAgMloiPjwvcGF0aD48L3N2Zz4="></kbd> 按钮可以打开 GitHub 自带的目录功能。
 
 <!-- md-parser-start -->
 
