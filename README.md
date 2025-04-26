@@ -6,33 +6,29 @@
 </p>
 
 <p align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <a href="https://www.trackawesomelist.com/msadream/awesome"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List"></a>
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
 </p>
 
 ## 目录
 
 使用右上角的 <kbd><img src="./assets/toc.svg"></kbd> 按钮可以打开 GitHub 自带的目录功能。
 
-<!-- md-parser-start -->
+## 2025-04-18 | 无障碍
 
-## 2025-04-18 | 无障碍主题
-
-- [NextStep](https://github.com/next-step-project) - AI 辅助决策，助你走出下一步 \
-    团队：第 7 组（[Ferry](https://github.com/Ferryplay), [Victor](https://github.com/vchunstoppable), [Typed SIGTERM](https://github.com/typed-sigterm)）
-
-- 路演时没记录，期待其他组 PR 补充（
+| 项目名/体验链接 | 简介 | 团队成员 | 代码仓库 |
+| :---: | :---: | :---: | :---: |
+| [NextStep](https://next-step.by-ts.top) | AI 辅助决策，助你走出下一步 | [Ferry](https://github.com/Ferryplay), [Victor](https://github.com/vchunstoppable), [Typed SIGTERM](https://github.com/typed-sigterm) | [🔗](https://github.com/next-step-project) |
+| | 路演时没记录，期待其他组 PR 补充 | | |
 
 ## 2025-04-03 | 老有所 AI
 
-- [GenSync](https://gensync.7086cmd.me) - 一个使用 AI 算法匹配老年人和学习者的平台，旨在为老年人在传授知识中提供实现自我价值的机会 \
-    代码仓库：[ms48-gensync](https://github.com/ms48-gensync) \
-    团队：第 8 组（[Aristra](https://github.com/AristraHatsuyu), [Jane Zhang](https://github.com/jo1-yo), [7086cmd](https://github.com/7086cmd), 久美坚参）
-
-- 期待知情人士补充
+| 项目名/体验链接 | 简介 | 团队成员 | 代码仓库 |
+| :---: | :---: | :---: | :---: |
+| [GenSync](https://gensync.7086cmd.me/) | 一个使用 AI 算法匹配老年人和学习者的平台，<br>旨在为老年人在传授知识中提供实现自我价值的机会 | [Aristra](https://github.com/AristraHatsuyu), [Jane Zhang](https://github.com/jo1-yo), [7086cmd](https://github.com/7086cmd), 久美坚参 | [🔗](https://github.com/ms48-gensync)
+| | 期待知情人士补充 | | |
 
 ## 2025-02-28
 
 期待知情人士补充
-
-<!-- md-parser-end -->
