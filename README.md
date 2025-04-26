@@ -1,19 +1,13 @@
 <h1 align="center">Awesome Moonshot48</h1>
 
 <p align="center">
-<a href="https://www.msadream.cn">
-Moonshot48
-</a>
-历届作品清单
+  <a href="https://www.msadream.cn">Moonshot48</a>
+  历届作品清单
 </p>
 
 <p align="center">
-<a href="https://github.com/sindresorhus/awesome">
-<img src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome/media/badge.svg" alt="Awesome">
-</a>
-<a href="https://www.trackawesomelist.com/msadream/awesome">
-<img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List">
-</a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://www.trackawesomelist.com/msadream/awesome"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List"></a>
 </p>
 
 ## 目录

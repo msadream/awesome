@@ -1,14 +1,11 @@
 {
-  "type": "module",
   "private": true,
+  "type": "module",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "autocorrect --lint .",
+    "format": "autocorrect --fix ."
   },
   "devDependencies": {
-    "@typed-sigterm/eslint-config": "^1.4.1",
-    "eslint": "^9.25.1"
-  },
-  "trustedDependencies": [
-    "unrs-resolver"
-  ]
+    "autocorrect-node": "^2.13.3"
+  }
 }
