@@ -33,4 +33,8 @@
 
 ## 2025-02-28 | AI 教育
 
-期待知情人士补充
+| 项目 | 简介 | 团队成员 | 代码仓库 |
+| :---: | :---: | :---: | :---: |
+| [LightningRoute](https://lightningroute-fe.streamlit.app) | 使用 GPT 自动总结文字/文档并生成思维导图 | Quark, [Unknownuserfrommars](https://github.com/Unknownuserfrommars), Richard, 望除贰夕 | [🔗](https://github.com/Unknownuserfrommars/LightningRoute-Frontend)
+| | 期待更多组补充自己的作品 ❤️ | | |
+
