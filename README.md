@@ -1,3 +1,12 @@
+> [!TIP]
+> Awesome Moonshot48 原是社区维护的清单，现已于 2025/6/5 转正为探月学校维护。
+> 
+> 👉 https://github.com/Moonshot48/Moonshot48
+>
+> 所有贡献记录均已合并到新仓库，本仓库将不再维护。
+
+---
+
 <h1 align="center">Awesome Moonshot48</h1>
 
 <p align="center">
